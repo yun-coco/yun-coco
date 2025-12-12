@@ -33,3 +33,6 @@
 ## 🌬 **Tool**
 - **Tech**: TypeScript, React.js, Next.js, Tanstack Query, Zustand, SCSS, Cursor
 - **Co-Work**: Figma, Jira, Slack
+
+---
+**Profile image** : 못난이 토마토 by [동디](https://www.instagram.com/dong_d_20/)
