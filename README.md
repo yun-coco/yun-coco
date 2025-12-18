@@ -9,12 +9,7 @@
 - e-mail: **yunjeong.dev.2173@gmail.com** <br />
 - blog: [**https://yuncoco.tistory.com/**](https://yuncoco.tistory.com/) <br />
 
-
-## 🌬 **Skills**
-- TypeScript / React / Next.js / TanStack Query / SCSS / styled-components
-
-## 🛠️ **Tools**
-- Cursor / Slack / Jira / Notion / Figma
+<br />
 
 ## 🐂 **Work Experience**
 
@@ -36,6 +31,18 @@
 **플랫폼경험팀, 매니저** <br />
 
 - 한인민박, 제주숙소 파트너 및 상품운영 관리
+
+<br />
+
+## 🌬 **Skills**
+- TypeScript / React / Next.js / TanStack Query / SCSS / styled-components
+
+<br />
+
+## 🛠️ **Tools**
+- Cursor / Slack / Jira / Notion / Figma
+
+<br />
 
 ---
 **Profile image** : 못난이 토마토 by [동디](https://www.instagram.com/dong_d_20/)
