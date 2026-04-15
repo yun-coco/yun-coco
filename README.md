@@ -11,23 +11,30 @@
 
 <br />
 
-## 🐂 **Work Experience**
+## 🛠️ **Work Experience**
 
 [**| 나우에너지솔루션 |**](https://www.oilnow.co.kr/) <br />
 2022.01.03 - 2025.09.30 (3년 9개월) <br />
 **개발팀, 프론트엔드 개발자** <br />
 
-- **[오일러스](https://oilers.oilnow.co.kr/)**: 주유소 사장님의 손쉬운 주유소 관리운영을 돕는 서비스 <br />
-  - 모바일 앱 내 웹뷰 개발 및 유지 보수 담당 <br />
-  - [재고/매출/계좌잔액 실시간확인 솔루션] 프론트엔드 & 백엔드 개발 <br />
-  - [세차 간편결제 대시보드] WebSocket 기반 실시간 통신 프론트엔드 & 백엔드 개발 <br />
-  - [유류유통 관리 어드민] 프론트엔드 개발 <br />
+- **[오일러스](https://oilers.oilnow.co.kr/)**: 주유소 운영자용 SaaS (유가 분석, 매출·재고 관리) <br />
+  - React Native와 Next.js 기반 앱 출시, 웹뷰 클라이언트·서버 개발
+  - App-Web 간의 Refresh Token Rotation 구조 구현
+  - 유료 구독 솔루션(매출·재고·잔액 조회) 런칭, 외부 금융 API 연동
+  - 주유소 운영 데이터(운영시간·세차정보) 관리용 복합 폼 개발
+  - 콘텐츠 마케팅용 SSR 블로그 개발 및 검색엔진 최적화
+  - 설계 단계 세분화를 통한 팀 개발 프로세스 정립
 
-- **오일페이**: 주유소 QR 간편결제 서비스 <br />
-  - [본사 관리자용 & 가맹점용 어드민] 프론트엔드 개발 & 유지 보수 담당
+- **오일페이**: 주유·세차 QR 간편결제 서비스 <br />
+  - 결제 관리 및 운영을 위한 Next.js 기반 웹 서비스 클라이언트·서버 개발
+  - WebSocket 기반 실시간 세차 결제내역 대시보드 구축
+  - 본사/가맹점 백오피스 개발 및 ERD·컴포넌트 명세 문서화
+  - 현금/카드 결제내역 정산을 자동화하는 세차일지 프로덕트 개발
+
+<br />
     
 [**| 마이리얼트립 |**](https://www.myrealtrip.com/) <br />
-2020.01.21 - 2021.07.16 (1년 6개월) <br />
+2020.01.21 - 2021.07.16 (1년 7개월) <br />
 **플랫폼경험팀, 매니저** <br />
 
 - 한인민박, 제주숙소 파트너 및 상품운영 관리
@@ -35,14 +42,17 @@
 <br />
 
 ## 🌬 **Skills**
-- TypeScript / React / Next.js / TanStack Query / SCSS / styled-components
+- **주력**: React · Next.js · TypeScript · TanStack Query · SCSS · styled-components
+- **활용 경험**: React Native · Expo · Firebase · NestJS · MySQL
+- **분석/실험**: GA4 · Amplitude · Hackle
+- **도구**: Git · Jira · Slack · Figma · Cursor · Claude
 
 <br />
 
-## 🛠️ **Tools**
-- Cursor / Slack / Jira / Notion / Figma
+## 🎓 **Education**
+**성균관대학교** | 중어중문학과 (2013.03 - 2019.02)
 
 <br />
 
 ---
-**Profile image** : 못난이 토마토 by [동디](https://www.instagram.com/dong_d_20/)
+**Profile image**: 못난이 토마토 by [동디](https://www.instagram.com/dong_d_20/)
